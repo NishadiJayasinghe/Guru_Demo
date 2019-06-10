@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dependency>
+	<group>commons-io</group>
+	<artifact>commons-io</artifact>
+	<version>2.6</version>
+</dependency>
